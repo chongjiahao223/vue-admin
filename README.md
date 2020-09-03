@@ -41,7 +41,7 @@
 git clone https://github.com/chongjiahao223/vue-admin-blog.git
 
 # 进入项目目录
-cd vue-admin-template
+cd vue-admin-blog
 
 # 安装依赖
 npm install
