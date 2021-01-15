@@ -34,7 +34,8 @@ module.exports = {
     port: port,
     proxy: {
       "/api": {
-        target: "http://dev.vue-laravel-test.com/api",
+        target: "",
+        // target: "http://dev.carsdaq-operator-api.com/api",
         pathRewrite: {"^/api" : ""}
       }
     }
